@@ -1,0 +1,3 @@
+# ignore ALL files in given directories
+build/
+venv/
